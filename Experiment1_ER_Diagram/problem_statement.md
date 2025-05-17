@@ -163,5 +163,11 @@ Extensibility allows adding features like Prerequisites and Billing.
 Constraints ensure data integrity and avoid redundancy or invalid links.
 
 
+
+
+
+
+
+
 ## RESULT
 A complete ER model of a university system that defines students, courses, professors, and their interrelationships, including prerequisites, with proper constraints and rationale.
